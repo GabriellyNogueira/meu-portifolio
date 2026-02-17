@@ -84,12 +84,12 @@ body{
     margin-bottom: 50px;
 }
 
-.nome{
+.nome, .mb-4{
     color: #550FAD;
     font-weight: 500;
     font-family: "Platypi", serif;
 }
-.titulos h1, .titulo-obrigada{
+.titulos h1{
     
     font-size: 40px;
     align-items: end;
