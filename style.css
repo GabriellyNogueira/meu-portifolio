@@ -391,6 +391,14 @@ textarea{
   }
 }
 
+@media (max-width: 768px) {
+  .img2-container {
+    margin-left: 0 !important;
+    margin-top: 40px !important;
+    justify-content: center;
+  }
+}
+
 
 /*  Ajustes extras pra telas pequenas */
 @media (max-width: 480px) {
